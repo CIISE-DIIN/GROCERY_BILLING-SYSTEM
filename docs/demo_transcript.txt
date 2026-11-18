@@ -1,0 +1,198 @@
+Prices in RM. Promotion: 5% off a subtotal of RM 100 or more.
+No tax is added in this teaching application.
+
+============================================
+       ISSE GROCERY BILLING SYSTEM
+============================================
+1. View product catalogue
+2. Add product to cart
+3. View cart and bill
+4. Update quantity
+5. Remove product
+6. Checkout and pay
+7. View saved receipts
+8. Clear cart
+0. Exit
+
+Choose an option: 1
+PRODUCT CATALOGUE
+Code   Product                    Price RM   Stock
+--------------------------------------------------
+P001   Rice 5 kg                     28.50      30
+P002   Milk 1 L                       7.20      40
+P003   Bread loaf                     3.80      35
+P004   Eggs pack of 10                6.50      25
+P005   Sugar 1 kg                     2.85      40
+P006   Cooking oil 1 kg               6.90      30
+P007   Apples pack                    8.00      20
+P008   Tea 20 bags                    5.40      25
+
+============================================
+       ISSE GROCERY BILLING SYSTEM
+============================================
+1. View product catalogue
+2. Add product to cart
+3. View cart and bill
+4. Update quantity
+5. Remove product
+6. Checkout and pay
+7. View saved receipts
+8. Clear cart
+0. Exit
+
+Choose an option: 2
+Product code: P001
+Quantity (whole units): 4
+Product added to cart.
+
+============================================
+       ISSE GROCERY BILLING SYSTEM
+============================================
+1. View product catalogue
+2. Add product to cart
+3. View cart and bill
+4. Update quantity
+5. Remove product
+6. Checkout and pay
+7. View saved receipts
+8. Clear cart
+0. Exit
+
+Choose an option: 2
+Product code: P002
+Quantity (whole units): 2
+Product added to cart.
+
+============================================
+       ISSE GROCERY BILLING SYSTEM
+============================================
+1. View product catalogue
+2. Add product to cart
+3. View cart and bill
+4. Update quantity
+5. Remove product
+6. Checkout and pay
+7. View saved receipts
+8. Clear cart
+0. Exit
+
+Choose an option: 3
+Item                    Qty   RM each   RM total
+------------------------------------------------
+Rice 5 kg                 4     28.50     114.00
+Milk 1 L                  2      7.20      14.40
+------------------------------------------------
+Subtotal: RM 128.40
+Discount: RM 6.42
+TOTAL:    RM 121.98
+
+============================================
+       ISSE GROCERY BILLING SYSTEM
+============================================
+1. View product catalogue
+2. Add product to cart
+3. View cart and bill
+4. Update quantity
+5. Remove product
+6. Checkout and pay
+7. View saved receipts
+8. Clear cart
+0. Exit
+
+Choose an option: 6
+Item                    Qty   RM each   RM total
+------------------------------------------------
+Rice 5 kg                 4     28.50     114.00
+Milk 1 L                  2      7.20      14.40
+------------------------------------------------
+Subtotal: RM 128.40
+Discount: RM 6.42
+TOTAL:    RM 121.98
+Cash received in RM (or C to cancel): 100
+ERROR: Insufficient cash. Amount due is RM 121.98.
+
+============================================
+       ISSE GROCERY BILLING SYSTEM
+============================================
+1. View product catalogue
+2. Add product to cart
+3. View cart and bill
+4. Update quantity
+5. Remove product
+6. Checkout and pay
+7. View saved receipts
+8. Clear cart
+0. Exit
+
+Choose an option: 6
+Item                    Qty   RM each   RM total
+------------------------------------------------
+Rice 5 kg                 4     28.50     114.00
+Milk 1 L                  2      7.20      14.40
+------------------------------------------------
+Subtotal: RM 128.40
+Discount: RM 6.42
+TOTAL:    RM 121.98
+Cash received in RM (or C to cancel): 150
+ISSE GROCERY BILLING SYSTEM
+RECEIPT GBS-00001
+2026-11-18T14:10:20+08:00
+Item                    Qty   RM each   RM total
+------------------------------------------------
+Rice 5 kg                 4     28.50     114.00
+Milk 1 L                  2      7.20      14.40
+------------------------------------------------
+Subtotal: RM 128.40
+Discount: RM 6.42
+TOTAL:    RM 121.98
+Cash:     RM 150.00
+Change:   RM 28.02
+Thank you for shopping with us.
+Sale saved. Cart cleared.
+
+============================================
+       ISSE GROCERY BILLING SYSTEM
+============================================
+1. View product catalogue
+2. Add product to cart
+3. View cart and bill
+4. Update quantity
+5. Remove product
+6. Checkout and pay
+7. View saved receipts
+8. Clear cart
+0. Exit
+
+Choose an option: 7
+GBS-00001 | 2026-11-18T14:10:20+08:00 | RM 121.98
+Receipt ID to view (Enter to return): GBS-00001
+ISSE GROCERY BILLING SYSTEM
+RECEIPT GBS-00001
+2026-11-18T14:10:20+08:00
+Item                    Qty   RM each   RM total
+------------------------------------------------
+Rice 5 kg                 4     28.50     114.00
+Milk 1 L                  2      7.20      14.40
+------------------------------------------------
+Subtotal: RM 128.40
+Discount: RM 6.42
+TOTAL:    RM 121.98
+Cash:     RM 150.00
+Change:   RM 28.02
+Thank you for shopping with us.
+
+============================================
+       ISSE GROCERY BILLING SYSTEM
+============================================
+1. View product catalogue
+2. Add product to cart
+3. View cart and bill
+4. Update quantity
+5. Remove product
+6. Checkout and pay
+7. View saved receipts
+8. Clear cart
+0. Exit
+
+Choose an option: 0
+Goodbye.

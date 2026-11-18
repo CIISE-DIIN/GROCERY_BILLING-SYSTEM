@@ -1,0 +1,26 @@
+test_bad_cash (test_system.GroceryTests.test_bad_cash) ... ok
+test_checkout_and_exact_change (test_system.GroceryTests.test_checkout_and_exact_change) ... ok
+test_cli_cancel_and_invalid_quantity (test_system.GroceryTests.test_cli_cancel_and_invalid_quantity) ... ok
+test_cli_full_checkout_and_restart (test_system.GroceryTests.test_cli_full_checkout_and_restart) ... ok
+test_corrupt_file_preserved (test_system.GroceryTests.test_corrupt_file_preserved) ... ok
+test_discount_boundary (test_system.GroceryTests.test_discount_boundary) ... ok
+test_discount_rounds_half_up (test_system.GroceryTests.test_discount_rounds_half_up) ... ok
+test_empty_cart (test_system.GroceryTests.test_empty_cart) ... ok
+test_exact_payment (test_system.GroceryTests.test_exact_payment) ... ok
+test_failed_save_preserves_old_file (test_system.GroceryTests.test_failed_save_preserves_old_file) ... ok
+test_insufficient_payment_does_not_mutate (test_system.GroceryTests.test_insufficient_payment_does_not_mutate) ... ok
+test_invalid_quantities (test_system.GroceryTests.test_invalid_quantities) ... ok
+test_invalid_saved_schema (test_system.GroceryTests.test_invalid_saved_schema) ... ok
+test_ordinary_bill (test_system.GroceryTests.test_ordinary_bill) ... ok
+test_repeated_addition_and_code_normalization (test_system.GroceryTests.test_repeated_addition_and_code_normalization) ... ok
+test_save_reload_and_receipt_sequence (test_system.GroceryTests.test_save_reload_and_receipt_sequence) ... ok
+test_stock_limit_includes_existing_cart (test_system.GroceryTests.test_stock_limit_includes_existing_cart) ... ok
+test_stock_rechecked_at_checkout (test_system.GroceryTests.test_stock_rechecked_at_checkout) ... ok
+test_unknown_product (test_system.GroceryTests.test_unknown_product) ... ok
+test_update_and_remove (test_system.GroceryTests.test_update_and_remove) ... ok
+test_update_and_remove_missing (test_system.GroceryTests.test_update_and_remove_missing) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.176s
+
+OK
